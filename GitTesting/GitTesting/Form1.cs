@@ -25,5 +25,14 @@ namespace GitTesting
             Color color = Color.FromArgb(b[0], b[1], b[2]);
             Test_button.BackColor = color;
         }
+
+        private void btn_2_Click(object sender, EventArgs e)
+        {
+            Random rnd = new Random();
+            Byte[] b = new Byte[3];
+            rnd.NextBytes(b);
+            Color color = Color.FromArgb(b[0], b[1], b[2]);
+            Test_button.BackColor = color;
+        }
     }
 }
