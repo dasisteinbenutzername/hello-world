@@ -1,0 +1,10 @@
+C:\Users\Raphael\source\repos\GitTesting\GitTesting\bin\Debug\GitTesting.exe.config
+C:\Users\Raphael\source\repos\GitTesting\GitTesting\bin\Debug\GitTesting.exe
+C:\Users\Raphael\source\repos\GitTesting\GitTesting\bin\Debug\GitTesting.pdb
+C:\Users\Raphael\source\repos\GitTesting\GitTesting\obj\Debug\GitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\source\repos\GitTesting\GitTesting\obj\Debug\GitTesting.Test_from.resources
+C:\Users\Raphael\source\repos\GitTesting\GitTesting\obj\Debug\GitTesting.Properties.Resources.resources
+C:\Users\Raphael\source\repos\GitTesting\GitTesting\obj\Debug\GitTesting.csproj.GenerateResource.Cache
+C:\Users\Raphael\source\repos\GitTesting\GitTesting\obj\Debug\GitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\GitTesting\GitTesting\obj\Debug\GitTesting.exe
+C:\Users\Raphael\source\repos\GitTesting\GitTesting\obj\Debug\GitTesting.pdb
